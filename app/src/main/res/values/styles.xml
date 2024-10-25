@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="NumpadButtonStyle" parent="Widget.AppCompat.Button">
+        <item name="android:background">@drawable/numpad_button_bg</item>
+        <item name="android:backgroundTint">@null</item>
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:layout_margin">2dp</item>
+    </style>
+</resources>
